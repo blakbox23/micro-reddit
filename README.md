@@ -17,9 +17,18 @@ After cloning the repo, you also need to install required gems in your machine.
 - Run `rails console` to perform tests on the project.
 
 ## Authors
+
+👤 **Peter Mbuthia**
+
 - GitHub: [@Blakbox23](https://github.com/blakbox23)
 - Twitter: [@blakbox23](https://twitter.com/blakbox23)
 - LinkedIn: [Peter Mbuthia](https://www.linkedin.com/in/peter-mbuthia)
+
+👤 **Aleksandar Ivezic**
+
+- GitHub: [Aleksandar Ivezic](https://github.com/ShinobiWarior)
+- Twitter: [@Aivezic](https://twitter.com/Aivezic)
+- LinkedIn: [Aleksandar Ivezic](https://www.linkedin.com/in/aleksandar-ivezic/)
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome.
