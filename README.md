@@ -1,24 +1,31 @@
-# README
+# Micro Reddit
+In this project we practice our knowledge of Active records, models, associations and validatios with Ruby on Rails. It is a simplified version of Reddit which allows users to make posts and add comments to these posts. The description of this project can be found [here](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built with
+- Ruby on Rails
 
-Things you may want to cover:
+## Getting Started
+Clone this repository to get a copy of this project. 
+- Open your terminal
+- Run `git clone https://github.com/blakbox23/micro-reddit.git`
+- Open the project with your favourite code editor.
 
-* Ruby version
+## Installation
+After cloning the repo, you also need to install required gems in your machine.
+- Run `bundle install` to install the dependancies.
+- Run `rails db:migrate` to create required database tables.
+- Run `rails console` to perform tests on the project.
 
-* System dependencies
+## Authors
+- GitHub: [@Blakbox23](https://github.com/blakbox23)
+- Twitter: [@blakbox23](https://twitter.com/blakbox23)
+- LinkedIn: [Peter Mbuthia](https://www.linkedin.com/in/peter-mbuthia)
 
-* Configuration
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome.
+Fell free to check the [issues page](https://github.com/blakbox23/micro-reddit/issues)
 
-* Database creation
+## Show your support
+Give a ⭐ if you like this project.
 
-* Database initialization
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
