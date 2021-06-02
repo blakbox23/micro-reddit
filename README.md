@@ -1,24 +1,39 @@
-# README
+# Micro Reddit
+In this project, we practice our knowledge of Active records, models, associations, and validation with Ruby on Rails. It is a simplified version of Reddit which allows users to make posts and add comments to these posts. The description of this project can be found [here](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails).
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Built with
+- Ruby on Rails
 
-Things you may want to cover:
+## Getting Started
+Clone this repository to get a copy of this project. 
+- Open your terminal
+- Run `git clone https://github.com/blakbox23/micro-reddit.git`
+- Open the project with your favorite code editor.
 
-* Ruby version
+## Installation
+After cloning the repo, you also need to install the required gems in your machine.
+- Run `bundle install` to install the dependencies.
+- Run `rails db:create` and `rails db:migrate` to create required database tables.
+- Run `rails console` to perform tests on the project.
 
-* System dependencies
+## Authors
 
-* Configuration
+👤 **Peter Mbuthia**
 
-* Database creation
+- GitHub: [@Blakbox23](https://github.com/blakbox23)
+- Twitter: [@blakbox23](https://twitter.com/blakbox23)
+- LinkedIn: [Peter Mbuthia](https://www.linkedin.com/in/peter-mbuthia)
 
-* Database initialization
+👤 **Aleksandar Ivezic**
 
-* How to run the test suite
+- GitHub: [Aleksandar Ivezic](https://github.com/ShinobiWarior)
+- Twitter: [@Aivezic](https://twitter.com/Aivezic)
+- LinkedIn: [Aleksandar Ivezic](https://www.linkedin.com/in/aleksandar-ivezic/)
 
-* Services (job queues, cache servers, search engines, etc.)
+## 🤝 Contributing
+Contributions, issues, and feature requests are welcome.
+Fell free to check the [issues page](https://github.com/blakbox23/micro-reddit/issues)
 
-* Deployment instructions
+## Show your support
+Give the ⭐ if you like this project.
 
-* ...
